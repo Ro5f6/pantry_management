@@ -1,0 +1,27 @@
+{
+    "name": "pantry-checker",
+    "version": "1.0.0",
+    "description": "A simple pantry checker app built with Next.js and Firebase",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.10.6",
+        "@emotion/styled": "^11.10.6",
+        "@mui/icons-material": "^5.16.6",
+        "@mui/material": "^5.13.8",
+        "firebase": "^10.12.5",
+        "next": "^14.2.5",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1"
+    },
+    "devDependencies": {
+        "eslint": "^8.42.0",
+        "eslint-config-next": "^13.4.3"
+    },
+    "license": "MIT"
+}
